@@ -2,7 +2,7 @@
 #define unko 8;
 
 int main(void){
-#if 0
+#if 1
 	fprintf(stdio, "うんこ\n");
 #endif
 
